@@ -9,10 +9,9 @@ function drawBall(x, y, r) {
 	ctx.stroke();
 	ctx.fillStyle = "red";
 	ctx.fill();
-
 }
 
-drawBall(200, 100, 20);
+drawBall(100, 100, 50);
 
 
 ctx.beginPath();
